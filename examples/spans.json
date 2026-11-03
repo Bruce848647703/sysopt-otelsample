@@ -1,0 +1,4804 @@
+{
+  "spans": [
+    {
+      "trace_id": "trace-00001",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 110.0,
+      "status": "error",
+      "timestamp": 1760000000
+    },
+    {
+      "trace_id": "trace-00002",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 114.0,
+      "status": "ok",
+      "timestamp": 1760000001
+    },
+    {
+      "trace_id": "trace-00003",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 118.0,
+      "status": "ok",
+      "timestamp": 1760000002
+    },
+    {
+      "trace_id": "trace-00004",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 122.0,
+      "status": "ok",
+      "timestamp": 1760000003
+    },
+    {
+      "trace_id": "trace-00005",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 126.0,
+      "status": "ok",
+      "timestamp": 1760000004
+    },
+    {
+      "trace_id": "trace-00006",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 785.0,
+      "status": "ok",
+      "timestamp": 1760000005
+    },
+    {
+      "trace_id": "trace-00007",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 134.0,
+      "status": "ok",
+      "timestamp": 1760000006
+    },
+    {
+      "trace_id": "trace-00008",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 138.0,
+      "status": "ok",
+      "timestamp": 1760000007
+    },
+    {
+      "trace_id": "trace-00009",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 142.0,
+      "status": "ok",
+      "timestamp": 1760000008
+    },
+    {
+      "trace_id": "trace-00010",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 146.0,
+      "status": "ok",
+      "timestamp": 1760000009
+    },
+    {
+      "trace_id": "trace-00011",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 150.0,
+      "status": "ok",
+      "timestamp": 1760000010
+    },
+    {
+      "trace_id": "trace-00012",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 154.0,
+      "status": "ok",
+      "timestamp": 1760000011
+    },
+    {
+      "trace_id": "trace-00013",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 158.0,
+      "status": "ok",
+      "timestamp": 1760000012
+    },
+    {
+      "trace_id": "trace-00014",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 162.0,
+      "status": "ok",
+      "timestamp": 1760000013
+    },
+    {
+      "trace_id": "trace-00015",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 166.0,
+      "status": "ok",
+      "timestamp": 1760000014
+    },
+    {
+      "trace_id": "trace-00016",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 170.0,
+      "status": "ok",
+      "timestamp": 1760000015
+    },
+    {
+      "trace_id": "trace-00017",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 174.0,
+      "status": "ok",
+      "timestamp": 1760000016
+    },
+    {
+      "trace_id": "trace-00018",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 178.0,
+      "status": "error",
+      "timestamp": 1760000017
+    },
+    {
+      "trace_id": "trace-00019",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 182.0,
+      "status": "ok",
+      "timestamp": 1760000018
+    },
+    {
+      "trace_id": "trace-00020",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 186.0,
+      "status": "ok",
+      "timestamp": 1760000019
+    },
+    {
+      "trace_id": "trace-00021",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 190.0,
+      "status": "ok",
+      "timestamp": 1760000020
+    },
+    {
+      "trace_id": "trace-00022",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 194.0,
+      "status": "ok",
+      "timestamp": 1760000021
+    },
+    {
+      "trace_id": "trace-00023",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000022
+    },
+    {
+      "trace_id": "trace-00024",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 110.0,
+      "status": "ok",
+      "timestamp": 1760000023
+    },
+    {
+      "trace_id": "trace-00025",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 114.0,
+      "status": "ok",
+      "timestamp": 1760000024
+    },
+    {
+      "trace_id": "trace-00026",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 118.0,
+      "status": "ok",
+      "timestamp": 1760000025
+    },
+    {
+      "trace_id": "trace-00027",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 122.0,
+      "status": "ok",
+      "timestamp": 1760000026
+    },
+    {
+      "trace_id": "trace-00028",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 126.0,
+      "status": "ok",
+      "timestamp": 1760000027
+    },
+    {
+      "trace_id": "trace-00029",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 130.0,
+      "status": "ok",
+      "timestamp": 1760000028
+    },
+    {
+      "trace_id": "trace-00030",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 134.0,
+      "status": "ok",
+      "timestamp": 1760000029
+    },
+    {
+      "trace_id": "trace-00031",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 138.0,
+      "status": "ok",
+      "timestamp": 1760000030
+    },
+    {
+      "trace_id": "trace-00032",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 142.0,
+      "status": "ok",
+      "timestamp": 1760000031
+    },
+    {
+      "trace_id": "trace-00033",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 146.0,
+      "status": "ok",
+      "timestamp": 1760000032
+    },
+    {
+      "trace_id": "trace-00034",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 150.0,
+      "status": "ok",
+      "timestamp": 1760000033
+    },
+    {
+      "trace_id": "trace-00035",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 154.0,
+      "status": "error",
+      "timestamp": 1760000034
+    },
+    {
+      "trace_id": "trace-00036",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 158.0,
+      "status": "ok",
+      "timestamp": 1760000035
+    },
+    {
+      "trace_id": "trace-00037",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 162.0,
+      "status": "ok",
+      "timestamp": 1760000036
+    },
+    {
+      "trace_id": "trace-00038",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 166.0,
+      "status": "ok",
+      "timestamp": 1760000037
+    },
+    {
+      "trace_id": "trace-00039",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 170.0,
+      "status": "ok",
+      "timestamp": 1760000038
+    },
+    {
+      "trace_id": "trace-00040",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 174.0,
+      "status": "ok",
+      "timestamp": 1760000039
+    },
+    {
+      "trace_id": "trace-00041",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 178.0,
+      "status": "ok",
+      "timestamp": 1760000040
+    },
+    {
+      "trace_id": "trace-00042",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 821.0,
+      "status": "ok",
+      "timestamp": 1760000041
+    },
+    {
+      "trace_id": "trace-00043",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 186.0,
+      "status": "ok",
+      "timestamp": 1760000042
+    },
+    {
+      "trace_id": "trace-00044",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 190.0,
+      "status": "ok",
+      "timestamp": 1760000043
+    },
+    {
+      "trace_id": "trace-00045",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 194.0,
+      "status": "ok",
+      "timestamp": 1760000044
+    },
+    {
+      "trace_id": "trace-00046",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000045
+    },
+    {
+      "trace_id": "trace-00047",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 110.0,
+      "status": "ok",
+      "timestamp": 1760000046
+    },
+    {
+      "trace_id": "trace-00048",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 114.0,
+      "status": "ok",
+      "timestamp": 1760000047
+    },
+    {
+      "trace_id": "trace-00049",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 118.0,
+      "status": "ok",
+      "timestamp": 1760000048
+    },
+    {
+      "trace_id": "trace-00050",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 122.0,
+      "status": "ok",
+      "timestamp": 1760000049
+    },
+    {
+      "trace_id": "trace-00051",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 126.0,
+      "status": "ok",
+      "timestamp": 1760000050
+    },
+    {
+      "trace_id": "trace-00052",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 130.0,
+      "status": "error",
+      "timestamp": 1760000051
+    },
+    {
+      "trace_id": "trace-00053",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 134.0,
+      "status": "ok",
+      "timestamp": 1760000052
+    },
+    {
+      "trace_id": "trace-00054",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 138.0,
+      "status": "ok",
+      "timestamp": 1760000053
+    },
+    {
+      "trace_id": "trace-00055",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 142.0,
+      "status": "ok",
+      "timestamp": 1760000054
+    },
+    {
+      "trace_id": "trace-00056",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 146.0,
+      "status": "ok",
+      "timestamp": 1760000055
+    },
+    {
+      "trace_id": "trace-00057",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 150.0,
+      "status": "ok",
+      "timestamp": 1760000056
+    },
+    {
+      "trace_id": "trace-00058",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 154.0,
+      "status": "ok",
+      "timestamp": 1760000057
+    },
+    {
+      "trace_id": "trace-00059",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 158.0,
+      "status": "ok",
+      "timestamp": 1760000058
+    },
+    {
+      "trace_id": "trace-00060",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 162.0,
+      "status": "ok",
+      "timestamp": 1760000059
+    },
+    {
+      "trace_id": "trace-00061",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 166.0,
+      "status": "ok",
+      "timestamp": 1760000060
+    },
+    {
+      "trace_id": "trace-00062",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 170.0,
+      "status": "ok",
+      "timestamp": 1760000061
+    },
+    {
+      "trace_id": "trace-00063",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 174.0,
+      "status": "ok",
+      "timestamp": 1760000062
+    },
+    {
+      "trace_id": "trace-00064",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 178.0,
+      "status": "ok",
+      "timestamp": 1760000063
+    },
+    {
+      "trace_id": "trace-00065",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 182.0,
+      "status": "ok",
+      "timestamp": 1760000064
+    },
+    {
+      "trace_id": "trace-00066",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 186.0,
+      "status": "ok",
+      "timestamp": 1760000065
+    },
+    {
+      "trace_id": "trace-00067",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 190.0,
+      "status": "ok",
+      "timestamp": 1760000066
+    },
+    {
+      "trace_id": "trace-00068",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 194.0,
+      "status": "ok",
+      "timestamp": 1760000067
+    },
+    {
+      "trace_id": "trace-00069",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 198.0,
+      "status": "error",
+      "timestamp": 1760000068
+    },
+    {
+      "trace_id": "trace-00070",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 110.0,
+      "status": "ok",
+      "timestamp": 1760000069
+    },
+    {
+      "trace_id": "trace-00071",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 114.0,
+      "status": "ok",
+      "timestamp": 1760000070
+    },
+    {
+      "trace_id": "trace-00072",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 118.0,
+      "status": "ok",
+      "timestamp": 1760000071
+    },
+    {
+      "trace_id": "trace-00073",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 122.0,
+      "status": "ok",
+      "timestamp": 1760000072
+    },
+    {
+      "trace_id": "trace-00074",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 126.0,
+      "status": "ok",
+      "timestamp": 1760000073
+    },
+    {
+      "trace_id": "trace-00075",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 130.0,
+      "status": "ok",
+      "timestamp": 1760000074
+    },
+    {
+      "trace_id": "trace-00076",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 134.0,
+      "status": "ok",
+      "timestamp": 1760000075
+    },
+    {
+      "trace_id": "trace-00077",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 138.0,
+      "status": "ok",
+      "timestamp": 1760000076
+    },
+    {
+      "trace_id": "trace-00078",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 857.0,
+      "status": "ok",
+      "timestamp": 1760000077
+    },
+    {
+      "trace_id": "trace-00079",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 146.0,
+      "status": "ok",
+      "timestamp": 1760000078
+    },
+    {
+      "trace_id": "trace-00080",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 150.0,
+      "status": "ok",
+      "timestamp": 1760000079
+    },
+    {
+      "trace_id": "trace-00081",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 154.0,
+      "status": "ok",
+      "timestamp": 1760000080
+    },
+    {
+      "trace_id": "trace-00082",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 158.0,
+      "status": "ok",
+      "timestamp": 1760000081
+    },
+    {
+      "trace_id": "trace-00083",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 162.0,
+      "status": "ok",
+      "timestamp": 1760000082
+    },
+    {
+      "trace_id": "trace-00084",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 166.0,
+      "status": "ok",
+      "timestamp": 1760000083
+    },
+    {
+      "trace_id": "trace-00085",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 170.0,
+      "status": "ok",
+      "timestamp": 1760000084
+    },
+    {
+      "trace_id": "trace-00086",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 174.0,
+      "status": "error",
+      "timestamp": 1760000085
+    },
+    {
+      "trace_id": "trace-00087",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 178.0,
+      "status": "ok",
+      "timestamp": 1760000086
+    },
+    {
+      "trace_id": "trace-00088",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 182.0,
+      "status": "ok",
+      "timestamp": 1760000087
+    },
+    {
+      "trace_id": "trace-00089",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 186.0,
+      "status": "ok",
+      "timestamp": 1760000088
+    },
+    {
+      "trace_id": "trace-00090",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 190.0,
+      "status": "ok",
+      "timestamp": 1760000089
+    },
+    {
+      "trace_id": "trace-00091",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 194.0,
+      "status": "ok",
+      "timestamp": 1760000090
+    },
+    {
+      "trace_id": "trace-00092",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000091
+    },
+    {
+      "trace_id": "trace-00093",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 110.0,
+      "status": "ok",
+      "timestamp": 1760000092
+    },
+    {
+      "trace_id": "trace-00094",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 873.0,
+      "status": "ok",
+      "timestamp": 1760000093
+    },
+    {
+      "trace_id": "trace-00095",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 118.0,
+      "status": "ok",
+      "timestamp": 1760000094
+    },
+    {
+      "trace_id": "trace-00096",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 122.0,
+      "status": "ok",
+      "timestamp": 1760000095
+    },
+    {
+      "trace_id": "trace-00097",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 126.0,
+      "status": "ok",
+      "timestamp": 1760000096
+    },
+    {
+      "trace_id": "trace-00098",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 130.0,
+      "status": "ok",
+      "timestamp": 1760000097
+    },
+    {
+      "trace_id": "trace-00099",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 134.0,
+      "status": "ok",
+      "timestamp": 1760000098
+    },
+    {
+      "trace_id": "trace-00100",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 138.0,
+      "status": "ok",
+      "timestamp": 1760000099
+    },
+    {
+      "trace_id": "trace-00101",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 142.0,
+      "status": "ok",
+      "timestamp": 1760000100
+    },
+    {
+      "trace_id": "trace-00102",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 146.0,
+      "status": "ok",
+      "timestamp": 1760000101
+    },
+    {
+      "trace_id": "trace-00103",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 150.0,
+      "status": "error",
+      "timestamp": 1760000102
+    },
+    {
+      "trace_id": "trace-00104",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 154.0,
+      "status": "ok",
+      "timestamp": 1760000103
+    },
+    {
+      "trace_id": "trace-00105",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 158.0,
+      "status": "ok",
+      "timestamp": 1760000104
+    },
+    {
+      "trace_id": "trace-00106",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 162.0,
+      "status": "ok",
+      "timestamp": 1760000105
+    },
+    {
+      "trace_id": "trace-00107",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 166.0,
+      "status": "ok",
+      "timestamp": 1760000106
+    },
+    {
+      "trace_id": "trace-00108",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 170.0,
+      "status": "ok",
+      "timestamp": 1760000107
+    },
+    {
+      "trace_id": "trace-00109",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 174.0,
+      "status": "ok",
+      "timestamp": 1760000108
+    },
+    {
+      "trace_id": "trace-00110",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 178.0,
+      "status": "ok",
+      "timestamp": 1760000109
+    },
+    {
+      "trace_id": "trace-00111",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 182.0,
+      "status": "ok",
+      "timestamp": 1760000110
+    },
+    {
+      "trace_id": "trace-00112",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 891.0,
+      "status": "ok",
+      "timestamp": 1760000111
+    },
+    {
+      "trace_id": "trace-00113",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 190.0,
+      "status": "ok",
+      "timestamp": 1760000112
+    },
+    {
+      "trace_id": "trace-00114",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 194.0,
+      "status": "ok",
+      "timestamp": 1760000113
+    },
+    {
+      "trace_id": "trace-00115",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000114
+    },
+    {
+      "trace_id": "trace-00116",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 110.0,
+      "status": "ok",
+      "timestamp": 1760000115
+    },
+    {
+      "trace_id": "trace-00117",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 114.0,
+      "status": "ok",
+      "timestamp": 1760000116
+    },
+    {
+      "trace_id": "trace-00118",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 118.0,
+      "status": "ok",
+      "timestamp": 1760000117
+    },
+    {
+      "trace_id": "trace-00119",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 122.0,
+      "status": "ok",
+      "timestamp": 1760000118
+    },
+    {
+      "trace_id": "trace-00120",
+      "service": "checkout",
+      "operation": "POST /pay",
+      "duration_ms": 126.0,
+      "status": "error",
+      "timestamp": 1760000119
+    },
+    {
+      "trace_id": "trace-00121",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000000
+    },
+    {
+      "trace_id": "trace-00122",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 47.5,
+      "status": "ok",
+      "timestamp": 1760000001
+    },
+    {
+      "trace_id": "trace-00123",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 50.0,
+      "status": "ok",
+      "timestamp": 1760000002
+    },
+    {
+      "trace_id": "trace-00124",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000003
+    },
+    {
+      "trace_id": "trace-00125",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 55.0,
+      "status": "ok",
+      "timestamp": 1760000004
+    },
+    {
+      "trace_id": "trace-00126",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 57.5,
+      "status": "ok",
+      "timestamp": 1760000005
+    },
+    {
+      "trace_id": "trace-00127",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000006
+    },
+    {
+      "trace_id": "trace-00128",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 62.5,
+      "status": "ok",
+      "timestamp": 1760000007
+    },
+    {
+      "trace_id": "trace-00129",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 65.0,
+      "status": "ok",
+      "timestamp": 1760000008
+    },
+    {
+      "trace_id": "trace-00130",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 67.5,
+      "status": "ok",
+      "timestamp": 1760000009
+    },
+    {
+      "trace_id": "trace-00131",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 70.0,
+      "status": "ok",
+      "timestamp": 1760000010
+    },
+    {
+      "trace_id": "trace-00132",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 72.5,
+      "status": "ok",
+      "timestamp": 1760000011
+    },
+    {
+      "trace_id": "trace-00133",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 75.0,
+      "status": "ok",
+      "timestamp": 1760000012
+    },
+    {
+      "trace_id": "trace-00134",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 77.5,
+      "status": "ok",
+      "timestamp": 1760000013
+    },
+    {
+      "trace_id": "trace-00135",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 80.0,
+      "status": "ok",
+      "timestamp": 1760000014
+    },
+    {
+      "trace_id": "trace-00136",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 82.5,
+      "status": "ok",
+      "timestamp": 1760000015
+    },
+    {
+      "trace_id": "trace-00137",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 85.0,
+      "status": "ok",
+      "timestamp": 1760000016
+    },
+    {
+      "trace_id": "trace-00138",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 87.5,
+      "status": "ok",
+      "timestamp": 1760000017
+    },
+    {
+      "trace_id": "trace-00139",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 90.0,
+      "status": "ok",
+      "timestamp": 1760000018
+    },
+    {
+      "trace_id": "trace-00140",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 92.5,
+      "status": "ok",
+      "timestamp": 1760000019
+    },
+    {
+      "trace_id": "trace-00141",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 95.0,
+      "status": "ok",
+      "timestamp": 1760000020
+    },
+    {
+      "trace_id": "trace-00142",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 97.5,
+      "status": "ok",
+      "timestamp": 1760000021
+    },
+    {
+      "trace_id": "trace-00143",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 100.0,
+      "status": "ok",
+      "timestamp": 1760000022
+    },
+    {
+      "trace_id": "trace-00144",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000023
+    },
+    {
+      "trace_id": "trace-00145",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 47.5,
+      "status": "ok",
+      "timestamp": 1760000024
+    },
+    {
+      "trace_id": "trace-00146",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 50.0,
+      "status": "ok",
+      "timestamp": 1760000025
+    },
+    {
+      "trace_id": "trace-00147",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000026
+    },
+    {
+      "trace_id": "trace-00148",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 55.0,
+      "status": "ok",
+      "timestamp": 1760000027
+    },
+    {
+      "trace_id": "trace-00149",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 57.5,
+      "status": "ok",
+      "timestamp": 1760000028
+    },
+    {
+      "trace_id": "trace-00150",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000029
+    },
+    {
+      "trace_id": "trace-00151",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 62.5,
+      "status": "ok",
+      "timestamp": 1760000030
+    },
+    {
+      "trace_id": "trace-00152",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 65.0,
+      "status": "ok",
+      "timestamp": 1760000031
+    },
+    {
+      "trace_id": "trace-00153",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 67.5,
+      "status": "ok",
+      "timestamp": 1760000032
+    },
+    {
+      "trace_id": "trace-00154",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 70.0,
+      "status": "ok",
+      "timestamp": 1760000033
+    },
+    {
+      "trace_id": "trace-00155",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 72.5,
+      "status": "ok",
+      "timestamp": 1760000034
+    },
+    {
+      "trace_id": "trace-00156",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 75.0,
+      "status": "ok",
+      "timestamp": 1760000035
+    },
+    {
+      "trace_id": "trace-00157",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 77.5,
+      "status": "ok",
+      "timestamp": 1760000036
+    },
+    {
+      "trace_id": "trace-00158",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 80.0,
+      "status": "ok",
+      "timestamp": 1760000037
+    },
+    {
+      "trace_id": "trace-00159",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 82.5,
+      "status": "ok",
+      "timestamp": 1760000038
+    },
+    {
+      "trace_id": "trace-00160",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 85.0,
+      "status": "ok",
+      "timestamp": 1760000039
+    },
+    {
+      "trace_id": "trace-00161",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 87.5,
+      "status": "ok",
+      "timestamp": 1760000040
+    },
+    {
+      "trace_id": "trace-00162",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 90.0,
+      "status": "ok",
+      "timestamp": 1760000041
+    },
+    {
+      "trace_id": "trace-00163",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 92.5,
+      "status": "ok",
+      "timestamp": 1760000042
+    },
+    {
+      "trace_id": "trace-00164",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 95.0,
+      "status": "ok",
+      "timestamp": 1760000043
+    },
+    {
+      "trace_id": "trace-00165",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 97.5,
+      "status": "ok",
+      "timestamp": 1760000044
+    },
+    {
+      "trace_id": "trace-00166",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 100.0,
+      "status": "ok",
+      "timestamp": 1760000045
+    },
+    {
+      "trace_id": "trace-00167",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000046
+    },
+    {
+      "trace_id": "trace-00168",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 47.5,
+      "status": "ok",
+      "timestamp": 1760000047
+    },
+    {
+      "trace_id": "trace-00169",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 50.0,
+      "status": "ok",
+      "timestamp": 1760000048
+    },
+    {
+      "trace_id": "trace-00170",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000049
+    },
+    {
+      "trace_id": "trace-00171",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 55.0,
+      "status": "ok",
+      "timestamp": 1760000050
+    },
+    {
+      "trace_id": "trace-00172",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 57.5,
+      "status": "ok",
+      "timestamp": 1760000051
+    },
+    {
+      "trace_id": "trace-00173",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000052
+    },
+    {
+      "trace_id": "trace-00174",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 62.5,
+      "status": "ok",
+      "timestamp": 1760000053
+    },
+    {
+      "trace_id": "trace-00175",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 65.0,
+      "status": "ok",
+      "timestamp": 1760000054
+    },
+    {
+      "trace_id": "trace-00176",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 67.5,
+      "status": "ok",
+      "timestamp": 1760000055
+    },
+    {
+      "trace_id": "trace-00177",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 70.0,
+      "status": "ok",
+      "timestamp": 1760000056
+    },
+    {
+      "trace_id": "trace-00178",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 72.5,
+      "status": "ok",
+      "timestamp": 1760000057
+    },
+    {
+      "trace_id": "trace-00179",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 75.0,
+      "status": "ok",
+      "timestamp": 1760000058
+    },
+    {
+      "trace_id": "trace-00180",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 77.5,
+      "status": "ok",
+      "timestamp": 1760000059
+    },
+    {
+      "trace_id": "trace-00181",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 80.0,
+      "status": "ok",
+      "timestamp": 1760000060
+    },
+    {
+      "trace_id": "trace-00182",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 82.5,
+      "status": "ok",
+      "timestamp": 1760000061
+    },
+    {
+      "trace_id": "trace-00183",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 85.0,
+      "status": "ok",
+      "timestamp": 1760000062
+    },
+    {
+      "trace_id": "trace-00184",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 87.5,
+      "status": "ok",
+      "timestamp": 1760000063
+    },
+    {
+      "trace_id": "trace-00185",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 90.0,
+      "status": "ok",
+      "timestamp": 1760000064
+    },
+    {
+      "trace_id": "trace-00186",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 92.5,
+      "status": "ok",
+      "timestamp": 1760000065
+    },
+    {
+      "trace_id": "trace-00187",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 95.0,
+      "status": "ok",
+      "timestamp": 1760000066
+    },
+    {
+      "trace_id": "trace-00188",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 97.5,
+      "status": "ok",
+      "timestamp": 1760000067
+    },
+    {
+      "trace_id": "trace-00189",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 100.0,
+      "status": "ok",
+      "timestamp": 1760000068
+    },
+    {
+      "trace_id": "trace-00190",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000069
+    },
+    {
+      "trace_id": "trace-00191",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 47.5,
+      "status": "ok",
+      "timestamp": 1760000070
+    },
+    {
+      "trace_id": "trace-00192",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 50.0,
+      "status": "ok",
+      "timestamp": 1760000071
+    },
+    {
+      "trace_id": "trace-00193",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000072
+    },
+    {
+      "trace_id": "trace-00194",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 55.0,
+      "status": "ok",
+      "timestamp": 1760000073
+    },
+    {
+      "trace_id": "trace-00195",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 57.5,
+      "status": "ok",
+      "timestamp": 1760000074
+    },
+    {
+      "trace_id": "trace-00196",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000075
+    },
+    {
+      "trace_id": "trace-00197",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 62.5,
+      "status": "ok",
+      "timestamp": 1760000076
+    },
+    {
+      "trace_id": "trace-00198",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 65.0,
+      "status": "ok",
+      "timestamp": 1760000077
+    },
+    {
+      "trace_id": "trace-00199",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 67.5,
+      "status": "ok",
+      "timestamp": 1760000078
+    },
+    {
+      "trace_id": "trace-00200",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 70.0,
+      "status": "ok",
+      "timestamp": 1760000079
+    },
+    {
+      "trace_id": "trace-00201",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 72.5,
+      "status": "ok",
+      "timestamp": 1760000080
+    },
+    {
+      "trace_id": "trace-00202",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 75.0,
+      "status": "ok",
+      "timestamp": 1760000081
+    },
+    {
+      "trace_id": "trace-00203",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 77.5,
+      "status": "ok",
+      "timestamp": 1760000082
+    },
+    {
+      "trace_id": "trace-00204",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 80.0,
+      "status": "ok",
+      "timestamp": 1760000083
+    },
+    {
+      "trace_id": "trace-00205",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 82.5,
+      "status": "ok",
+      "timestamp": 1760000084
+    },
+    {
+      "trace_id": "trace-00206",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 85.0,
+      "status": "ok",
+      "timestamp": 1760000085
+    },
+    {
+      "trace_id": "trace-00207",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 87.5,
+      "status": "ok",
+      "timestamp": 1760000086
+    },
+    {
+      "trace_id": "trace-00208",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 90.0,
+      "status": "ok",
+      "timestamp": 1760000087
+    },
+    {
+      "trace_id": "trace-00209",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 92.5,
+      "status": "ok",
+      "timestamp": 1760000088
+    },
+    {
+      "trace_id": "trace-00210",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 95.0,
+      "status": "ok",
+      "timestamp": 1760000089
+    },
+    {
+      "trace_id": "trace-00211",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 97.5,
+      "status": "ok",
+      "timestamp": 1760000090
+    },
+    {
+      "trace_id": "trace-00212",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 100.0,
+      "status": "ok",
+      "timestamp": 1760000091
+    },
+    {
+      "trace_id": "trace-00213",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000092
+    },
+    {
+      "trace_id": "trace-00214",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 47.5,
+      "status": "ok",
+      "timestamp": 1760000093
+    },
+    {
+      "trace_id": "trace-00215",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 50.0,
+      "status": "ok",
+      "timestamp": 1760000094
+    },
+    {
+      "trace_id": "trace-00216",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000095
+    },
+    {
+      "trace_id": "trace-00217",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 55.0,
+      "status": "ok",
+      "timestamp": 1760000096
+    },
+    {
+      "trace_id": "trace-00218",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 57.5,
+      "status": "ok",
+      "timestamp": 1760000097
+    },
+    {
+      "trace_id": "trace-00219",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000098
+    },
+    {
+      "trace_id": "trace-00220",
+      "service": "checkout",
+      "operation": "GET /cart",
+      "duration_ms": 62.5,
+      "status": "ok",
+      "timestamp": 1760000099
+    },
+    {
+      "trace_id": "trace-00221",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000000
+    },
+    {
+      "trace_id": "trace-00222",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000001
+    },
+    {
+      "trace_id": "trace-00223",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000002
+    },
+    {
+      "trace_id": "trace-00224",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 34.5,
+      "status": "ok",
+      "timestamp": 1760000003
+    },
+    {
+      "trace_id": "trace-00225",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000004
+    },
+    {
+      "trace_id": "trace-00226",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 37.5,
+      "status": "ok",
+      "timestamp": 1760000005
+    },
+    {
+      "trace_id": "trace-00227",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000006
+    },
+    {
+      "trace_id": "trace-00228",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 40.5,
+      "status": "ok",
+      "timestamp": 1760000007
+    },
+    {
+      "trace_id": "trace-00229",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 42.0,
+      "status": "ok",
+      "timestamp": 1760000008
+    },
+    {
+      "trace_id": "trace-00230",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 43.5,
+      "status": "ok",
+      "timestamp": 1760000009
+    },
+    {
+      "trace_id": "trace-00231",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000010
+    },
+    {
+      "trace_id": "trace-00232",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 46.5,
+      "status": "ok",
+      "timestamp": 1760000011
+    },
+    {
+      "trace_id": "trace-00233",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 48.0,
+      "status": "ok",
+      "timestamp": 1760000012
+    },
+    {
+      "trace_id": "trace-00234",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 49.5,
+      "status": "ok",
+      "timestamp": 1760000013
+    },
+    {
+      "trace_id": "trace-00235",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 51.0,
+      "status": "ok",
+      "timestamp": 1760000014
+    },
+    {
+      "trace_id": "trace-00236",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000015
+    },
+    {
+      "trace_id": "trace-00237",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 54.0,
+      "status": "ok",
+      "timestamp": 1760000016
+    },
+    {
+      "trace_id": "trace-00238",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 55.5,
+      "status": "ok",
+      "timestamp": 1760000017
+    },
+    {
+      "trace_id": "trace-00239",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 57.0,
+      "status": "ok",
+      "timestamp": 1760000018
+    },
+    {
+      "trace_id": "trace-00240",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 58.5,
+      "status": "ok",
+      "timestamp": 1760000019
+    },
+    {
+      "trace_id": "trace-00241",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000020
+    },
+    {
+      "trace_id": "trace-00242",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 61.5,
+      "status": "ok",
+      "timestamp": 1760000021
+    },
+    {
+      "trace_id": "trace-00243",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 63.0,
+      "status": "ok",
+      "timestamp": 1760000022
+    },
+    {
+      "trace_id": "trace-00244",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000023
+    },
+    {
+      "trace_id": "trace-00245",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000024
+    },
+    {
+      "trace_id": "trace-00246",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000025
+    },
+    {
+      "trace_id": "trace-00247",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 34.5,
+      "status": "ok",
+      "timestamp": 1760000026
+    },
+    {
+      "trace_id": "trace-00248",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000027
+    },
+    {
+      "trace_id": "trace-00249",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 37.5,
+      "status": "ok",
+      "timestamp": 1760000028
+    },
+    {
+      "trace_id": "trace-00250",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000029
+    },
+    {
+      "trace_id": "trace-00251",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 40.5,
+      "status": "ok",
+      "timestamp": 1760000030
+    },
+    {
+      "trace_id": "trace-00252",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 42.0,
+      "status": "ok",
+      "timestamp": 1760000031
+    },
+    {
+      "trace_id": "trace-00253",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 43.5,
+      "status": "ok",
+      "timestamp": 1760000032
+    },
+    {
+      "trace_id": "trace-00254",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000033
+    },
+    {
+      "trace_id": "trace-00255",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 46.5,
+      "status": "ok",
+      "timestamp": 1760000034
+    },
+    {
+      "trace_id": "trace-00256",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 48.0,
+      "status": "ok",
+      "timestamp": 1760000035
+    },
+    {
+      "trace_id": "trace-00257",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 49.5,
+      "status": "ok",
+      "timestamp": 1760000036
+    },
+    {
+      "trace_id": "trace-00258",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 51.0,
+      "status": "ok",
+      "timestamp": 1760000037
+    },
+    {
+      "trace_id": "trace-00259",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000038
+    },
+    {
+      "trace_id": "trace-00260",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 54.0,
+      "status": "ok",
+      "timestamp": 1760000039
+    },
+    {
+      "trace_id": "trace-00261",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 55.5,
+      "status": "ok",
+      "timestamp": 1760000040
+    },
+    {
+      "trace_id": "trace-00262",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 57.0,
+      "status": "ok",
+      "timestamp": 1760000041
+    },
+    {
+      "trace_id": "trace-00263",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 58.5,
+      "status": "ok",
+      "timestamp": 1760000042
+    },
+    {
+      "trace_id": "trace-00264",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000043
+    },
+    {
+      "trace_id": "trace-00265",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 61.5,
+      "status": "ok",
+      "timestamp": 1760000044
+    },
+    {
+      "trace_id": "trace-00266",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 63.0,
+      "status": "ok",
+      "timestamp": 1760000045
+    },
+    {
+      "trace_id": "trace-00267",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000046
+    },
+    {
+      "trace_id": "trace-00268",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000047
+    },
+    {
+      "trace_id": "trace-00269",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000048
+    },
+    {
+      "trace_id": "trace-00270",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 34.5,
+      "status": "ok",
+      "timestamp": 1760000049
+    },
+    {
+      "trace_id": "trace-00271",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000050
+    },
+    {
+      "trace_id": "trace-00272",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 37.5,
+      "status": "ok",
+      "timestamp": 1760000051
+    },
+    {
+      "trace_id": "trace-00273",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000052
+    },
+    {
+      "trace_id": "trace-00274",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 40.5,
+      "status": "ok",
+      "timestamp": 1760000053
+    },
+    {
+      "trace_id": "trace-00275",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 42.0,
+      "status": "ok",
+      "timestamp": 1760000054
+    },
+    {
+      "trace_id": "trace-00276",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 43.5,
+      "status": "ok",
+      "timestamp": 1760000055
+    },
+    {
+      "trace_id": "trace-00277",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000056
+    },
+    {
+      "trace_id": "trace-00278",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 46.5,
+      "status": "ok",
+      "timestamp": 1760000057
+    },
+    {
+      "trace_id": "trace-00279",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 48.0,
+      "status": "ok",
+      "timestamp": 1760000058
+    },
+    {
+      "trace_id": "trace-00280",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 49.5,
+      "status": "ok",
+      "timestamp": 1760000059
+    },
+    {
+      "trace_id": "trace-00281",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 51.0,
+      "status": "ok",
+      "timestamp": 1760000060
+    },
+    {
+      "trace_id": "trace-00282",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000061
+    },
+    {
+      "trace_id": "trace-00283",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 54.0,
+      "status": "ok",
+      "timestamp": 1760000062
+    },
+    {
+      "trace_id": "trace-00284",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 55.5,
+      "status": "ok",
+      "timestamp": 1760000063
+    },
+    {
+      "trace_id": "trace-00285",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 57.0,
+      "status": "ok",
+      "timestamp": 1760000064
+    },
+    {
+      "trace_id": "trace-00286",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 58.5,
+      "status": "ok",
+      "timestamp": 1760000065
+    },
+    {
+      "trace_id": "trace-00287",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000066
+    },
+    {
+      "trace_id": "trace-00288",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 61.5,
+      "status": "ok",
+      "timestamp": 1760000067
+    },
+    {
+      "trace_id": "trace-00289",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 63.0,
+      "status": "ok",
+      "timestamp": 1760000068
+    },
+    {
+      "trace_id": "trace-00290",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000069
+    },
+    {
+      "trace_id": "trace-00291",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000070
+    },
+    {
+      "trace_id": "trace-00292",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000071
+    },
+    {
+      "trace_id": "trace-00293",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 34.5,
+      "status": "ok",
+      "timestamp": 1760000072
+    },
+    {
+      "trace_id": "trace-00294",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000073
+    },
+    {
+      "trace_id": "trace-00295",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 37.5,
+      "status": "ok",
+      "timestamp": 1760000074
+    },
+    {
+      "trace_id": "trace-00296",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000075
+    },
+    {
+      "trace_id": "trace-00297",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 40.5,
+      "status": "ok",
+      "timestamp": 1760000076
+    },
+    {
+      "trace_id": "trace-00298",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 42.0,
+      "status": "ok",
+      "timestamp": 1760000077
+    },
+    {
+      "trace_id": "trace-00299",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 43.5,
+      "status": "ok",
+      "timestamp": 1760000078
+    },
+    {
+      "trace_id": "trace-00300",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000079
+    },
+    {
+      "trace_id": "trace-00301",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 46.5,
+      "status": "ok",
+      "timestamp": 1760000080
+    },
+    {
+      "trace_id": "trace-00302",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 48.0,
+      "status": "ok",
+      "timestamp": 1760000081
+    },
+    {
+      "trace_id": "trace-00303",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 49.5,
+      "status": "ok",
+      "timestamp": 1760000082
+    },
+    {
+      "trace_id": "trace-00304",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 51.0,
+      "status": "ok",
+      "timestamp": 1760000083
+    },
+    {
+      "trace_id": "trace-00305",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000084
+    },
+    {
+      "trace_id": "trace-00306",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 54.0,
+      "status": "ok",
+      "timestamp": 1760000085
+    },
+    {
+      "trace_id": "trace-00307",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 55.5,
+      "status": "ok",
+      "timestamp": 1760000086
+    },
+    {
+      "trace_id": "trace-00308",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 57.0,
+      "status": "ok",
+      "timestamp": 1760000087
+    },
+    {
+      "trace_id": "trace-00309",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 58.5,
+      "status": "ok",
+      "timestamp": 1760000088
+    },
+    {
+      "trace_id": "trace-00310",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000089
+    },
+    {
+      "trace_id": "trace-00311",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 61.5,
+      "status": "ok",
+      "timestamp": 1760000090
+    },
+    {
+      "trace_id": "trace-00312",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 63.0,
+      "status": "ok",
+      "timestamp": 1760000091
+    },
+    {
+      "trace_id": "trace-00313",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000092
+    },
+    {
+      "trace_id": "trace-00314",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000093
+    },
+    {
+      "trace_id": "trace-00315",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000094
+    },
+    {
+      "trace_id": "trace-00316",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 34.5,
+      "status": "ok",
+      "timestamp": 1760000095
+    },
+    {
+      "trace_id": "trace-00317",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000096
+    },
+    {
+      "trace_id": "trace-00318",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 37.5,
+      "status": "ok",
+      "timestamp": 1760000097
+    },
+    {
+      "trace_id": "trace-00319",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000098
+    },
+    {
+      "trace_id": "trace-00320",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 40.5,
+      "status": "ok",
+      "timestamp": 1760000099
+    },
+    {
+      "trace_id": "trace-00321",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 42.0,
+      "status": "ok",
+      "timestamp": 1760000100
+    },
+    {
+      "trace_id": "trace-00322",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 43.5,
+      "status": "ok",
+      "timestamp": 1760000101
+    },
+    {
+      "trace_id": "trace-00323",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000102
+    },
+    {
+      "trace_id": "trace-00324",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 46.5,
+      "status": "ok",
+      "timestamp": 1760000103
+    },
+    {
+      "trace_id": "trace-00325",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 48.0,
+      "status": "ok",
+      "timestamp": 1760000104
+    },
+    {
+      "trace_id": "trace-00326",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 49.5,
+      "status": "ok",
+      "timestamp": 1760000105
+    },
+    {
+      "trace_id": "trace-00327",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 51.0,
+      "status": "ok",
+      "timestamp": 1760000106
+    },
+    {
+      "trace_id": "trace-00328",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000107
+    },
+    {
+      "trace_id": "trace-00329",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 54.0,
+      "status": "ok",
+      "timestamp": 1760000108
+    },
+    {
+      "trace_id": "trace-00330",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 55.5,
+      "status": "ok",
+      "timestamp": 1760000109
+    },
+    {
+      "trace_id": "trace-00331",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 57.0,
+      "status": "ok",
+      "timestamp": 1760000110
+    },
+    {
+      "trace_id": "trace-00332",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 58.5,
+      "status": "ok",
+      "timestamp": 1760000111
+    },
+    {
+      "trace_id": "trace-00333",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000112
+    },
+    {
+      "trace_id": "trace-00334",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 61.5,
+      "status": "ok",
+      "timestamp": 1760000113
+    },
+    {
+      "trace_id": "trace-00335",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 63.0,
+      "status": "ok",
+      "timestamp": 1760000114
+    },
+    {
+      "trace_id": "trace-00336",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000115
+    },
+    {
+      "trace_id": "trace-00337",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000116
+    },
+    {
+      "trace_id": "trace-00338",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000117
+    },
+    {
+      "trace_id": "trace-00339",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 34.5,
+      "status": "ok",
+      "timestamp": 1760000118
+    },
+    {
+      "trace_id": "trace-00340",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000119
+    },
+    {
+      "trace_id": "trace-00341",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 37.5,
+      "status": "ok",
+      "timestamp": 1760000120
+    },
+    {
+      "trace_id": "trace-00342",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000121
+    },
+    {
+      "trace_id": "trace-00343",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 40.5,
+      "status": "ok",
+      "timestamp": 1760000122
+    },
+    {
+      "trace_id": "trace-00344",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 42.0,
+      "status": "ok",
+      "timestamp": 1760000123
+    },
+    {
+      "trace_id": "trace-00345",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 43.5,
+      "status": "ok",
+      "timestamp": 1760000124
+    },
+    {
+      "trace_id": "trace-00346",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 45.0,
+      "status": "ok",
+      "timestamp": 1760000125
+    },
+    {
+      "trace_id": "trace-00347",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 46.5,
+      "status": "ok",
+      "timestamp": 1760000126
+    },
+    {
+      "trace_id": "trace-00348",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 48.0,
+      "status": "ok",
+      "timestamp": 1760000127
+    },
+    {
+      "trace_id": "trace-00349",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 49.5,
+      "status": "ok",
+      "timestamp": 1760000128
+    },
+    {
+      "trace_id": "trace-00350",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 51.0,
+      "status": "ok",
+      "timestamp": 1760000129
+    },
+    {
+      "trace_id": "trace-00351",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 52.5,
+      "status": "ok",
+      "timestamp": 1760000130
+    },
+    {
+      "trace_id": "trace-00352",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 54.0,
+      "status": "ok",
+      "timestamp": 1760000131
+    },
+    {
+      "trace_id": "trace-00353",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 55.5,
+      "status": "ok",
+      "timestamp": 1760000132
+    },
+    {
+      "trace_id": "trace-00354",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 57.0,
+      "status": "ok",
+      "timestamp": 1760000133
+    },
+    {
+      "trace_id": "trace-00355",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 58.5,
+      "status": "ok",
+      "timestamp": 1760000134
+    },
+    {
+      "trace_id": "trace-00356",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 60.0,
+      "status": "ok",
+      "timestamp": 1760000135
+    },
+    {
+      "trace_id": "trace-00357",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 61.5,
+      "status": "ok",
+      "timestamp": 1760000136
+    },
+    {
+      "trace_id": "trace-00358",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 63.0,
+      "status": "ok",
+      "timestamp": 1760000137
+    },
+    {
+      "trace_id": "trace-00359",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000138
+    },
+    {
+      "trace_id": "trace-00360",
+      "service": "catalog",
+      "operation": "GET /items",
+      "duration_ms": 31.5,
+      "status": "ok",
+      "timestamp": 1760000139
+    },
+    {
+      "trace_id": "trace-00361",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 18.0,
+      "status": "ok",
+      "timestamp": 1760000000
+    },
+    {
+      "trace_id": "trace-00362",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 19.0,
+      "status": "ok",
+      "timestamp": 1760000001
+    },
+    {
+      "trace_id": "trace-00363",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 20.0,
+      "status": "ok",
+      "timestamp": 1760000002
+    },
+    {
+      "trace_id": "trace-00364",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 21.0,
+      "status": "ok",
+      "timestamp": 1760000003
+    },
+    {
+      "trace_id": "trace-00365",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 22.0,
+      "status": "ok",
+      "timestamp": 1760000004
+    },
+    {
+      "trace_id": "trace-00366",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 23.0,
+      "status": "ok",
+      "timestamp": 1760000005
+    },
+    {
+      "trace_id": "trace-00367",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 24.0,
+      "status": "ok",
+      "timestamp": 1760000006
+    },
+    {
+      "trace_id": "trace-00368",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 25.0,
+      "status": "ok",
+      "timestamp": 1760000007
+    },
+    {
+      "trace_id": "trace-00369",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 26.0,
+      "status": "ok",
+      "timestamp": 1760000008
+    },
+    {
+      "trace_id": "trace-00370",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 27.0,
+      "status": "ok",
+      "timestamp": 1760000009
+    },
+    {
+      "trace_id": "trace-00371",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 28.0,
+      "status": "ok",
+      "timestamp": 1760000010
+    },
+    {
+      "trace_id": "trace-00372",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 29.0,
+      "status": "ok",
+      "timestamp": 1760000011
+    },
+    {
+      "trace_id": "trace-00373",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000012
+    },
+    {
+      "trace_id": "trace-00374",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 31.0,
+      "status": "ok",
+      "timestamp": 1760000013
+    },
+    {
+      "trace_id": "trace-00375",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 32.0,
+      "status": "ok",
+      "timestamp": 1760000014
+    },
+    {
+      "trace_id": "trace-00376",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000015
+    },
+    {
+      "trace_id": "trace-00377",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 34.0,
+      "status": "ok",
+      "timestamp": 1760000016
+    },
+    {
+      "trace_id": "trace-00378",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 35.0,
+      "status": "ok",
+      "timestamp": 1760000017
+    },
+    {
+      "trace_id": "trace-00379",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000018
+    },
+    {
+      "trace_id": "trace-00380",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 37.0,
+      "status": "ok",
+      "timestamp": 1760000019
+    },
+    {
+      "trace_id": "trace-00381",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 38.0,
+      "status": "ok",
+      "timestamp": 1760000020
+    },
+    {
+      "trace_id": "trace-00382",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000021
+    },
+    {
+      "trace_id": "trace-00383",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 40.0,
+      "status": "ok",
+      "timestamp": 1760000022
+    },
+    {
+      "trace_id": "trace-00384",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 18.0,
+      "status": "ok",
+      "timestamp": 1760000023
+    },
+    {
+      "trace_id": "trace-00385",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 19.0,
+      "status": "ok",
+      "timestamp": 1760000024
+    },
+    {
+      "trace_id": "trace-00386",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 20.0,
+      "status": "ok",
+      "timestamp": 1760000025
+    },
+    {
+      "trace_id": "trace-00387",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 21.0,
+      "status": "ok",
+      "timestamp": 1760000026
+    },
+    {
+      "trace_id": "trace-00388",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 22.0,
+      "status": "ok",
+      "timestamp": 1760000027
+    },
+    {
+      "trace_id": "trace-00389",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 23.0,
+      "status": "ok",
+      "timestamp": 1760000028
+    },
+    {
+      "trace_id": "trace-00390",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 24.0,
+      "status": "ok",
+      "timestamp": 1760000029
+    },
+    {
+      "trace_id": "trace-00391",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 25.0,
+      "status": "ok",
+      "timestamp": 1760000030
+    },
+    {
+      "trace_id": "trace-00392",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 26.0,
+      "status": "ok",
+      "timestamp": 1760000031
+    },
+    {
+      "trace_id": "trace-00393",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 27.0,
+      "status": "ok",
+      "timestamp": 1760000032
+    },
+    {
+      "trace_id": "trace-00394",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 28.0,
+      "status": "ok",
+      "timestamp": 1760000033
+    },
+    {
+      "trace_id": "trace-00395",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 29.0,
+      "status": "ok",
+      "timestamp": 1760000034
+    },
+    {
+      "trace_id": "trace-00396",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000035
+    },
+    {
+      "trace_id": "trace-00397",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 31.0,
+      "status": "ok",
+      "timestamp": 1760000036
+    },
+    {
+      "trace_id": "trace-00398",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 32.0,
+      "status": "ok",
+      "timestamp": 1760000037
+    },
+    {
+      "trace_id": "trace-00399",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000038
+    },
+    {
+      "trace_id": "trace-00400",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 34.0,
+      "status": "ok",
+      "timestamp": 1760000039
+    },
+    {
+      "trace_id": "trace-00401",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 35.0,
+      "status": "ok",
+      "timestamp": 1760000040
+    },
+    {
+      "trace_id": "trace-00402",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000041
+    },
+    {
+      "trace_id": "trace-00403",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 37.0,
+      "status": "ok",
+      "timestamp": 1760000042
+    },
+    {
+      "trace_id": "trace-00404",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 38.0,
+      "status": "ok",
+      "timestamp": 1760000043
+    },
+    {
+      "trace_id": "trace-00405",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000044
+    },
+    {
+      "trace_id": "trace-00406",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 40.0,
+      "status": "ok",
+      "timestamp": 1760000045
+    },
+    {
+      "trace_id": "trace-00407",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 18.0,
+      "status": "ok",
+      "timestamp": 1760000046
+    },
+    {
+      "trace_id": "trace-00408",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 19.0,
+      "status": "ok",
+      "timestamp": 1760000047
+    },
+    {
+      "trace_id": "trace-00409",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 20.0,
+      "status": "ok",
+      "timestamp": 1760000048
+    },
+    {
+      "trace_id": "trace-00410",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 21.0,
+      "status": "ok",
+      "timestamp": 1760000049
+    },
+    {
+      "trace_id": "trace-00411",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 22.0,
+      "status": "ok",
+      "timestamp": 1760000050
+    },
+    {
+      "trace_id": "trace-00412",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 23.0,
+      "status": "ok",
+      "timestamp": 1760000051
+    },
+    {
+      "trace_id": "trace-00413",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 24.0,
+      "status": "ok",
+      "timestamp": 1760000052
+    },
+    {
+      "trace_id": "trace-00414",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 25.0,
+      "status": "ok",
+      "timestamp": 1760000053
+    },
+    {
+      "trace_id": "trace-00415",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 26.0,
+      "status": "ok",
+      "timestamp": 1760000054
+    },
+    {
+      "trace_id": "trace-00416",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 27.0,
+      "status": "ok",
+      "timestamp": 1760000055
+    },
+    {
+      "trace_id": "trace-00417",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 28.0,
+      "status": "ok",
+      "timestamp": 1760000056
+    },
+    {
+      "trace_id": "trace-00418",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 29.0,
+      "status": "ok",
+      "timestamp": 1760000057
+    },
+    {
+      "trace_id": "trace-00419",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 30.0,
+      "status": "ok",
+      "timestamp": 1760000058
+    },
+    {
+      "trace_id": "trace-00420",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 31.0,
+      "status": "ok",
+      "timestamp": 1760000059
+    },
+    {
+      "trace_id": "trace-00421",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 32.0,
+      "status": "ok",
+      "timestamp": 1760000060
+    },
+    {
+      "trace_id": "trace-00422",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 33.0,
+      "status": "ok",
+      "timestamp": 1760000061
+    },
+    {
+      "trace_id": "trace-00423",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 34.0,
+      "status": "ok",
+      "timestamp": 1760000062
+    },
+    {
+      "trace_id": "trace-00424",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 35.0,
+      "status": "ok",
+      "timestamp": 1760000063
+    },
+    {
+      "trace_id": "trace-00425",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 36.0,
+      "status": "ok",
+      "timestamp": 1760000064
+    },
+    {
+      "trace_id": "trace-00426",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 37.0,
+      "status": "ok",
+      "timestamp": 1760000065
+    },
+    {
+      "trace_id": "trace-00427",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 38.0,
+      "status": "ok",
+      "timestamp": 1760000066
+    },
+    {
+      "trace_id": "trace-00428",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 39.0,
+      "status": "ok",
+      "timestamp": 1760000067
+    },
+    {
+      "trace_id": "trace-00429",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 40.0,
+      "status": "ok",
+      "timestamp": 1760000068
+    },
+    {
+      "trace_id": "trace-00430",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 18.0,
+      "status": "ok",
+      "timestamp": 1760000069
+    },
+    {
+      "trace_id": "trace-00431",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 19.0,
+      "status": "ok",
+      "timestamp": 1760000070
+    },
+    {
+      "trace_id": "trace-00432",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 20.0,
+      "status": "ok",
+      "timestamp": 1760000071
+    },
+    {
+      "trace_id": "trace-00433",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 21.0,
+      "status": "ok",
+      "timestamp": 1760000072
+    },
+    {
+      "trace_id": "trace-00434",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 22.0,
+      "status": "ok",
+      "timestamp": 1760000073
+    },
+    {
+      "trace_id": "trace-00435",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 23.0,
+      "status": "ok",
+      "timestamp": 1760000074
+    },
+    {
+      "trace_id": "trace-00436",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 24.0,
+      "status": "ok",
+      "timestamp": 1760000075
+    },
+    {
+      "trace_id": "trace-00437",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 25.0,
+      "status": "ok",
+      "timestamp": 1760000076
+    },
+    {
+      "trace_id": "trace-00438",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 26.0,
+      "status": "ok",
+      "timestamp": 1760000077
+    },
+    {
+      "trace_id": "trace-00439",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 27.0,
+      "status": "ok",
+      "timestamp": 1760000078
+    },
+    {
+      "trace_id": "trace-00440",
+      "service": "auth",
+      "operation": "POST /token",
+      "duration_ms": 28.0,
+      "status": "ok",
+      "timestamp": 1760000079
+    },
+    {
+      "trace_id": "trace-00441",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "error",
+      "timestamp": 1760000000
+    },
+    {
+      "trace_id": "trace-00442",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "ok",
+      "timestamp": 1760000001
+    },
+    {
+      "trace_id": "trace-00443",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000002
+    },
+    {
+      "trace_id": "trace-00444",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "ok",
+      "timestamp": 1760000003
+    },
+    {
+      "trace_id": "trace-00445",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "error",
+      "timestamp": 1760000004
+    },
+    {
+      "trace_id": "trace-00446",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "ok",
+      "timestamp": 1760000005
+    },
+    {
+      "trace_id": "trace-00447",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "ok",
+      "timestamp": 1760000006
+    },
+    {
+      "trace_id": "trace-00448",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "ok",
+      "timestamp": 1760000007
+    },
+    {
+      "trace_id": "trace-00449",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "error",
+      "timestamp": 1760000008
+    },
+    {
+      "trace_id": "trace-00450",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "ok",
+      "timestamp": 1760000009
+    },
+    {
+      "trace_id": "trace-00451",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "ok",
+      "timestamp": 1760000010
+    },
+    {
+      "trace_id": "trace-00452",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "ok",
+      "timestamp": 1760000011
+    },
+    {
+      "trace_id": "trace-00453",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "error",
+      "timestamp": 1760000012
+    },
+    {
+      "trace_id": "trace-00454",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "ok",
+      "timestamp": 1760000013
+    },
+    {
+      "trace_id": "trace-00455",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "ok",
+      "timestamp": 1760000014
+    },
+    {
+      "trace_id": "trace-00456",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "ok",
+      "timestamp": 1760000015
+    },
+    {
+      "trace_id": "trace-00457",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "error",
+      "timestamp": 1760000016
+    },
+    {
+      "trace_id": "trace-00458",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "ok",
+      "timestamp": 1760000017
+    },
+    {
+      "trace_id": "trace-00459",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "ok",
+      "timestamp": 1760000018
+    },
+    {
+      "trace_id": "trace-00460",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "ok",
+      "timestamp": 1760000019
+    },
+    {
+      "trace_id": "trace-00461",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "error",
+      "timestamp": 1760000020
+    },
+    {
+      "trace_id": "trace-00462",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "ok",
+      "timestamp": 1760000021
+    },
+    {
+      "trace_id": "trace-00463",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 378.0,
+      "status": "ok",
+      "timestamp": 1760000022
+    },
+    {
+      "trace_id": "trace-00464",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "ok",
+      "timestamp": 1760000023
+    },
+    {
+      "trace_id": "trace-00465",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "error",
+      "timestamp": 1760000024
+    },
+    {
+      "trace_id": "trace-00466",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000025
+    },
+    {
+      "trace_id": "trace-00467",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "ok",
+      "timestamp": 1760000026
+    },
+    {
+      "trace_id": "trace-00468",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "ok",
+      "timestamp": 1760000027
+    },
+    {
+      "trace_id": "trace-00469",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "error",
+      "timestamp": 1760000028
+    },
+    {
+      "trace_id": "trace-00470",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "ok",
+      "timestamp": 1760000029
+    },
+    {
+      "trace_id": "trace-00471",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "ok",
+      "timestamp": 1760000030
+    },
+    {
+      "trace_id": "trace-00472",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "ok",
+      "timestamp": 1760000031
+    },
+    {
+      "trace_id": "trace-00473",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "error",
+      "timestamp": 1760000032
+    },
+    {
+      "trace_id": "trace-00474",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "ok",
+      "timestamp": 1760000033
+    },
+    {
+      "trace_id": "trace-00475",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "ok",
+      "timestamp": 1760000034
+    },
+    {
+      "trace_id": "trace-00476",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "ok",
+      "timestamp": 1760000035
+    },
+    {
+      "trace_id": "trace-00477",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "error",
+      "timestamp": 1760000036
+    },
+    {
+      "trace_id": "trace-00478",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "ok",
+      "timestamp": 1760000037
+    },
+    {
+      "trace_id": "trace-00479",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "ok",
+      "timestamp": 1760000038
+    },
+    {
+      "trace_id": "trace-00480",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "ok",
+      "timestamp": 1760000039
+    },
+    {
+      "trace_id": "trace-00481",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "error",
+      "timestamp": 1760000040
+    },
+    {
+      "trace_id": "trace-00482",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "ok",
+      "timestamp": 1760000041
+    },
+    {
+      "trace_id": "trace-00483",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "ok",
+      "timestamp": 1760000042
+    },
+    {
+      "trace_id": "trace-00484",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "ok",
+      "timestamp": 1760000043
+    },
+    {
+      "trace_id": "trace-00485",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "error",
+      "timestamp": 1760000044
+    },
+    {
+      "trace_id": "trace-00486",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 378.0,
+      "status": "ok",
+      "timestamp": 1760000045
+    },
+    {
+      "trace_id": "trace-00487",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "ok",
+      "timestamp": 1760000046
+    },
+    {
+      "trace_id": "trace-00488",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "ok",
+      "timestamp": 1760000047
+    },
+    {
+      "trace_id": "trace-00489",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "error",
+      "timestamp": 1760000048
+    },
+    {
+      "trace_id": "trace-00490",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "ok",
+      "timestamp": 1760000049
+    },
+    {
+      "trace_id": "trace-00491",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "ok",
+      "timestamp": 1760000050
+    },
+    {
+      "trace_id": "trace-00492",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "ok",
+      "timestamp": 1760000051
+    },
+    {
+      "trace_id": "trace-00493",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "error",
+      "timestamp": 1760000052
+    },
+    {
+      "trace_id": "trace-00494",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "ok",
+      "timestamp": 1760000053
+    },
+    {
+      "trace_id": "trace-00495",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "ok",
+      "timestamp": 1760000054
+    },
+    {
+      "trace_id": "trace-00496",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "ok",
+      "timestamp": 1760000055
+    },
+    {
+      "trace_id": "trace-00497",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "error",
+      "timestamp": 1760000056
+    },
+    {
+      "trace_id": "trace-00498",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "ok",
+      "timestamp": 1760000057
+    },
+    {
+      "trace_id": "trace-00499",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "ok",
+      "timestamp": 1760000058
+    },
+    {
+      "trace_id": "trace-00500",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "ok",
+      "timestamp": 1760000059
+    },
+    {
+      "trace_id": "trace-00501",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "error",
+      "timestamp": 1760000060
+    },
+    {
+      "trace_id": "trace-00502",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "ok",
+      "timestamp": 1760000061
+    },
+    {
+      "trace_id": "trace-00503",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "ok",
+      "timestamp": 1760000062
+    },
+    {
+      "trace_id": "trace-00504",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "ok",
+      "timestamp": 1760000063
+    },
+    {
+      "trace_id": "trace-00505",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "error",
+      "timestamp": 1760000064
+    },
+    {
+      "trace_id": "trace-00506",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "ok",
+      "timestamp": 1760000065
+    },
+    {
+      "trace_id": "trace-00507",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "ok",
+      "timestamp": 1760000066
+    },
+    {
+      "trace_id": "trace-00508",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "ok",
+      "timestamp": 1760000067
+    },
+    {
+      "trace_id": "trace-00509",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 378.0,
+      "status": "error",
+      "timestamp": 1760000068
+    },
+    {
+      "trace_id": "trace-00510",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "ok",
+      "timestamp": 1760000069
+    },
+    {
+      "trace_id": "trace-00511",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "ok",
+      "timestamp": 1760000070
+    },
+    {
+      "trace_id": "trace-00512",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000071
+    },
+    {
+      "trace_id": "trace-00513",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "error",
+      "timestamp": 1760000072
+    },
+    {
+      "trace_id": "trace-00514",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "ok",
+      "timestamp": 1760000073
+    },
+    {
+      "trace_id": "trace-00515",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "ok",
+      "timestamp": 1760000074
+    },
+    {
+      "trace_id": "trace-00516",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "ok",
+      "timestamp": 1760000075
+    },
+    {
+      "trace_id": "trace-00517",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "error",
+      "timestamp": 1760000076
+    },
+    {
+      "trace_id": "trace-00518",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "ok",
+      "timestamp": 1760000077
+    },
+    {
+      "trace_id": "trace-00519",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "ok",
+      "timestamp": 1760000078
+    },
+    {
+      "trace_id": "trace-00520",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "ok",
+      "timestamp": 1760000079
+    },
+    {
+      "trace_id": "trace-00521",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "error",
+      "timestamp": 1760000080
+    },
+    {
+      "trace_id": "trace-00522",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "ok",
+      "timestamp": 1760000081
+    },
+    {
+      "trace_id": "trace-00523",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "ok",
+      "timestamp": 1760000082
+    },
+    {
+      "trace_id": "trace-00524",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "ok",
+      "timestamp": 1760000083
+    },
+    {
+      "trace_id": "trace-00525",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "error",
+      "timestamp": 1760000084
+    },
+    {
+      "trace_id": "trace-00526",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "ok",
+      "timestamp": 1760000085
+    },
+    {
+      "trace_id": "trace-00527",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "ok",
+      "timestamp": 1760000086
+    },
+    {
+      "trace_id": "trace-00528",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "ok",
+      "timestamp": 1760000087
+    },
+    {
+      "trace_id": "trace-00529",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "error",
+      "timestamp": 1760000088
+    },
+    {
+      "trace_id": "trace-00530",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "ok",
+      "timestamp": 1760000089
+    },
+    {
+      "trace_id": "trace-00531",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "ok",
+      "timestamp": 1760000090
+    },
+    {
+      "trace_id": "trace-00532",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 378.0,
+      "status": "ok",
+      "timestamp": 1760000091
+    },
+    {
+      "trace_id": "trace-00533",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "error",
+      "timestamp": 1760000092
+    },
+    {
+      "trace_id": "trace-00534",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "ok",
+      "timestamp": 1760000093
+    },
+    {
+      "trace_id": "trace-00535",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000094
+    },
+    {
+      "trace_id": "trace-00536",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "ok",
+      "timestamp": 1760000095
+    },
+    {
+      "trace_id": "trace-00537",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "error",
+      "timestamp": 1760000096
+    },
+    {
+      "trace_id": "trace-00538",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "ok",
+      "timestamp": 1760000097
+    },
+    {
+      "trace_id": "trace-00539",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "ok",
+      "timestamp": 1760000098
+    },
+    {
+      "trace_id": "trace-00540",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "ok",
+      "timestamp": 1760000099
+    },
+    {
+      "trace_id": "trace-00541",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "error",
+      "timestamp": 1760000100
+    },
+    {
+      "trace_id": "trace-00542",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "ok",
+      "timestamp": 1760000101
+    },
+    {
+      "trace_id": "trace-00543",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "ok",
+      "timestamp": 1760000102
+    },
+    {
+      "trace_id": "trace-00544",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "ok",
+      "timestamp": 1760000103
+    },
+    {
+      "trace_id": "trace-00545",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "error",
+      "timestamp": 1760000104
+    },
+    {
+      "trace_id": "trace-00546",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "ok",
+      "timestamp": 1760000105
+    },
+    {
+      "trace_id": "trace-00547",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "ok",
+      "timestamp": 1760000106
+    },
+    {
+      "trace_id": "trace-00548",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "ok",
+      "timestamp": 1760000107
+    },
+    {
+      "trace_id": "trace-00549",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "error",
+      "timestamp": 1760000108
+    },
+    {
+      "trace_id": "trace-00550",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "ok",
+      "timestamp": 1760000109
+    },
+    {
+      "trace_id": "trace-00551",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "ok",
+      "timestamp": 1760000110
+    },
+    {
+      "trace_id": "trace-00552",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "ok",
+      "timestamp": 1760000111
+    },
+    {
+      "trace_id": "trace-00553",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "error",
+      "timestamp": 1760000112
+    },
+    {
+      "trace_id": "trace-00554",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "ok",
+      "timestamp": 1760000113
+    },
+    {
+      "trace_id": "trace-00555",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 378.0,
+      "status": "ok",
+      "timestamp": 1760000114
+    },
+    {
+      "trace_id": "trace-00556",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "ok",
+      "timestamp": 1760000115
+    },
+    {
+      "trace_id": "trace-00557",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "error",
+      "timestamp": 1760000116
+    },
+    {
+      "trace_id": "trace-00558",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "ok",
+      "timestamp": 1760000117
+    },
+    {
+      "trace_id": "trace-00559",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "ok",
+      "timestamp": 1760000118
+    },
+    {
+      "trace_id": "trace-00560",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "ok",
+      "timestamp": 1760000119
+    },
+    {
+      "trace_id": "trace-00561",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "error",
+      "timestamp": 1760000120
+    },
+    {
+      "trace_id": "trace-00562",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "ok",
+      "timestamp": 1760000121
+    },
+    {
+      "trace_id": "trace-00563",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "ok",
+      "timestamp": 1760000122
+    },
+    {
+      "trace_id": "trace-00564",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "ok",
+      "timestamp": 1760000123
+    },
+    {
+      "trace_id": "trace-00565",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "error",
+      "timestamp": 1760000124
+    },
+    {
+      "trace_id": "trace-00566",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "ok",
+      "timestamp": 1760000125
+    },
+    {
+      "trace_id": "trace-00567",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "ok",
+      "timestamp": 1760000126
+    },
+    {
+      "trace_id": "trace-00568",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "ok",
+      "timestamp": 1760000127
+    },
+    {
+      "trace_id": "trace-00569",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "error",
+      "timestamp": 1760000128
+    },
+    {
+      "trace_id": "trace-00570",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "ok",
+      "timestamp": 1760000129
+    },
+    {
+      "trace_id": "trace-00571",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "ok",
+      "timestamp": 1760000130
+    },
+    {
+      "trace_id": "trace-00572",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "ok",
+      "timestamp": 1760000131
+    },
+    {
+      "trace_id": "trace-00573",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "error",
+      "timestamp": 1760000132
+    },
+    {
+      "trace_id": "trace-00574",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "ok",
+      "timestamp": 1760000133
+    },
+    {
+      "trace_id": "trace-00575",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "ok",
+      "timestamp": 1760000134
+    },
+    {
+      "trace_id": "trace-00576",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "ok",
+      "timestamp": 1760000135
+    },
+    {
+      "trace_id": "trace-00577",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "error",
+      "timestamp": 1760000136
+    },
+    {
+      "trace_id": "trace-00578",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 378.0,
+      "status": "ok",
+      "timestamp": 1760000137
+    },
+    {
+      "trace_id": "trace-00579",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 180.0,
+      "status": "ok",
+      "timestamp": 1760000138
+    },
+    {
+      "trace_id": "trace-00580",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 189.0,
+      "status": "ok",
+      "timestamp": 1760000139
+    },
+    {
+      "trace_id": "trace-00581",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 198.0,
+      "status": "error",
+      "timestamp": 1760000140
+    },
+    {
+      "trace_id": "trace-00582",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 207.0,
+      "status": "ok",
+      "timestamp": 1760000141
+    },
+    {
+      "trace_id": "trace-00583",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 216.0,
+      "status": "ok",
+      "timestamp": 1760000142
+    },
+    {
+      "trace_id": "trace-00584",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 225.0,
+      "status": "ok",
+      "timestamp": 1760000143
+    },
+    {
+      "trace_id": "trace-00585",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 234.0,
+      "status": "error",
+      "timestamp": 1760000144
+    },
+    {
+      "trace_id": "trace-00586",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 243.0,
+      "status": "ok",
+      "timestamp": 1760000145
+    },
+    {
+      "trace_id": "trace-00587",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 252.0,
+      "status": "ok",
+      "timestamp": 1760000146
+    },
+    {
+      "trace_id": "trace-00588",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 261.0,
+      "status": "ok",
+      "timestamp": 1760000147
+    },
+    {
+      "trace_id": "trace-00589",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 270.0,
+      "status": "error",
+      "timestamp": 1760000148
+    },
+    {
+      "trace_id": "trace-00590",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 279.0,
+      "status": "ok",
+      "timestamp": 1760000149
+    },
+    {
+      "trace_id": "trace-00591",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 288.0,
+      "status": "ok",
+      "timestamp": 1760000150
+    },
+    {
+      "trace_id": "trace-00592",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 297.0,
+      "status": "ok",
+      "timestamp": 1760000151
+    },
+    {
+      "trace_id": "trace-00593",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 306.0,
+      "status": "error",
+      "timestamp": 1760000152
+    },
+    {
+      "trace_id": "trace-00594",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 315.0,
+      "status": "ok",
+      "timestamp": 1760000153
+    },
+    {
+      "trace_id": "trace-00595",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 324.0,
+      "status": "ok",
+      "timestamp": 1760000154
+    },
+    {
+      "trace_id": "trace-00596",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 333.0,
+      "status": "ok",
+      "timestamp": 1760000155
+    },
+    {
+      "trace_id": "trace-00597",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 342.0,
+      "status": "error",
+      "timestamp": 1760000156
+    },
+    {
+      "trace_id": "trace-00598",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 351.0,
+      "status": "ok",
+      "timestamp": 1760000157
+    },
+    {
+      "trace_id": "trace-00599",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 360.0,
+      "status": "ok",
+      "timestamp": 1760000158
+    },
+    {
+      "trace_id": "trace-00600",
+      "service": "search",
+      "operation": "GET /query",
+      "duration_ms": 369.0,
+      "status": "ok",
+      "timestamp": 1760000159
+    }
+  ]
+}
